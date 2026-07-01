@@ -1,0 +1,10 @@
+[package]
+name = "i3-swallow-rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = "4.6.1"
+i3ipc = "0.10.1"
+subprocess = "1.2.0"
+thread_timer = "0.3.0"
